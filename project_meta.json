@@ -1,10 +1,17 @@
 {
-  "seq": 72,
   "title": "Food Waste Analytics for Hospitality Businesses",
+  "old_slug": "food-waste-analytics-for-hospitality-businesses",
   "slug": "food-waste-analytics-for-hospitality-businesses",
   "folder": "Food_Waste_Analytics_For_Hospitality_Businesses",
   "kind": "analytics",
-  "body_words": 233,
+  "body_words": 298,
+  "source": "MICT Academic",
   "project_id": "Academic Project 36",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
